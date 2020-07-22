@@ -31,4 +31,4 @@ if (discrim > 0 & a != 0) {
   cat("This is just a value, not an equation:", roots)
 }
 
-
+balblabla
